@@ -104,7 +104,7 @@ Adicione comandos de execução e exemplos que você acha que os usuários achar
   <tr>
     <td align="center">
       <a title="Haryel Caliari">
-        <img src="assets/Haryel.png" width="100px;" alt="Foto do Haryel Caliari"/><br>
+        <img src="assets/haryel.png" width="100px;" alt="Foto do Haryel Caliari"/><br>
         <sub>
           <b>Haryel Caliari</b>
         </sub>

@@ -6,7 +6,7 @@
 
 <img src="assets/.png" alt="Logo">
 
-> The game "Mimic Sons" is a fun competition in which players take turns imitating different sounds, while the others try to guess. The design features a simple and pleasant interface, with features such as audio recording, random challenges and an interactive experience between participants. 
+> . 
 
 ## 💻 Pré-requisitos
 
@@ -49,25 +49,70 @@ Adicione comandos de execução e exemplos que você acha que os usuários achar
   <tr>
     <td align="center">
       <a href="#" title="Caio">
-        <img src="" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <img src="assets/Caio.png" width="100px;" alt="Foto do Caio"/><br>
         <sub>
-          <b>Iuri Silva</b>
+          <b>Caio Cunha</b>
         </sub>
       </a>
     </td>
     <td align="center">
-      <a href="#" title="defina o titulo do link">
-        <img src="https://s2.glbimg.com/FUcw2usZfSTL6yCCGj3L3v3SpJ8=/smart/e.glbimg.com/og/ed/f/original/2019/04/25/zuckerberg_podcast.jpg" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
+      <a href="#" title="Daniel">
+        <img src="assets/Daniel.png" width="100px;" alt="Foto do Daniel"/><br>
         <sub>
-          <b>Mark Zuckerberg</b>
+          <b>Daniel Vanzela</b>
         </sub>
       </a>
     </td>
     <td align="center">
-      <a href="#" title="defina o titulo do link">
-        <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg" width="100px;" alt="Foto do Steve Jobs"/><br>
+      <a href="#" title="Eduardo">
+        <img src="assets/Edu.png" width="100px;" alt="Foto do Eduardo"/><br>
         <sub>
-          <b>Steve Jobs</b>
+          <b>Eduardo Fonseca</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+  <td align="center">
+      <a href="#" title="Gian">
+        <img src="assets/Gian.png" width="100px;" alt="Foto do Gian"/><br>
+        <sub>
+          <b>Gian Freitas</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+  <td align="center">
+      <a href="#" title="Giovana">
+        <img src="assets/Giovana.png" width="100px;" alt="Foto da Giovana"/><br>
+        <sub>
+          <b>Giovana Chiodeto</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+  <td align="center">
+      <a href="#" title="Haryel">
+        <img src="assets/haryel.png" width="100px;" alt="Foto do Haryel"/><br>
+        <sub>
+          <b>Haryel Caliari</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+  <td align="center">
+      <a href="#" title="Ayumi">
+        <img src="assets/Ayumi.png" width="100px;" alt="Foto da Ayumi"/><br>
+        <sub>
+          <b>Jackeline Ayumi</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+  <td align="center">
+      <a href="#" title="Viny">
+        <img src="assets/Viny.png" width="100px;" alt="Foto do Viny"/><br>
+        <sub>
+          <b>Vinycius Oblonczyk</b>
         </sub>
       </a>
     </td>

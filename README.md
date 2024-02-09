@@ -73,8 +73,10 @@ Adicione comandos de execução e exemplos que você acha que os usuários achar
     </td>
   </tr>
 </table>
+
 <table>
-  <td align="center">
+  <tr>
+    <td align="center">
       <a href="#" title="Gian">
         <img src="assets/Gian.png" width="100px;" alt="Foto do Gian"/><br>
         <sub>
@@ -82,8 +84,7 @@ Adicione comandos de execução e exemplos que você acha que os usuários achar
         </sub>
       </a>
     </td>
-  </tr>
-  <td align="center">
+    <td align="center">
       <a href="#" title="Giovana">
         <img src="assets/Giovana.png" width="100px;" alt="Foto da Giovana"/><br>
         <sub>
@@ -91,8 +92,7 @@ Adicione comandos de execução e exemplos que você acha que os usuários achar
         </sub>
       </a>
     </td>
-  </tr>
-  <td align="center">
+    <td align="center">
       <a href="#" title="Haryel">
         <img src="assets/haryel.png" width="100px;" alt="Foto do Haryel"/><br>
         <sub>
@@ -103,16 +103,16 @@ Adicione comandos de execução e exemplos que você acha que os usuários achar
   </tr>
 </table>
 <table>
-  <td align="center">
-      <a href="#" title="Ayumi">
+  <tr>
+    <td align="center">
+      <a href="#" title="Jackeline">
         <img src="assets/Ayumi.png" width="100px;" alt="Foto da Ayumi"/><br>
         <sub>
           <b>Jackeline Ayumi</b>
         </sub>
       </a>
     </td>
-  </tr>
-  <td align="center">
+    <td align="center">
       <a href="#" title="Viny">
         <img src="assets/Viny.png" width="100px;" alt="Foto do Viny"/><br>
         <sub>
@@ -122,6 +122,7 @@ Adicione comandos de execução e exemplos que você acha que os usuários achar
     </td>
   </tr>
 </table>
+
 
 ## 📝 License
 

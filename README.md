@@ -43,6 +43,10 @@ npm start
 
 Confira o protótipo no [Figma](https://www.figma.com/file/zAgjtpFcLzY1yQX1bWKs8D/Build-My-World---Projeto-Integrado?type=design&node-id=0-1&mode=design&t=xTPdyioAhmxzupVD-0) para visualizar o design do projeto.
 
+## 📖 Documentation
+
+Check the documentation at [PDF](https://drive.google.com/file/d/1fRa5kJHLxYEPiGmOV2IUF_Zce-j1622R/view?usp=sharing) to see the methodology applied in this project
+
 ## 🤝 Collaborators
 
 <table>

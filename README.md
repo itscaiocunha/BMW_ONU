@@ -4,17 +4,15 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/itscaiocunha/BMW_ONU?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/itscaiocunha/BMW_ONU?style=for-the-badge)
 
-<img src="assets/.png" alt="Logo">
+<img src="assets/Tela.png" alt="Logo">
 
-> . 
+> Project developed in the fourth period of graduation whose objective was to develop a platform that was hosted in the cloud and that helped solve one of the UN SDGs. What resulted in a recycling, blood, clothes etc. donation game.
 
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
-- Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
-- Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
-- Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
+- Você instalou a versão mais recente de [Node.js](https://nodejs.org/) e o [npm](https://www.npmjs.com/).
 
 ## 🚀 Instalando Build My World
 
@@ -23,13 +21,13 @@ Para instalar, siga estas etapas:
 Linux e macOS:
 
 ```
-<comando_de_instalação>
+npm install
 ```
 
 Windows:
 
 ```
-<comando_de_instalação>
+npm install
 ```
 
 ## ☕ Usando Build My World
@@ -37,11 +35,13 @@ Windows:
 Para usar, siga estas etapas:
 
 ```
-<exemplo_de_uso>
+npm start
 ```
 
-Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
 
+## 🖼️ Design
+
+Confira o protótipo no [Figma](https://www.figma.com/file/zAgjtpFcLzY1yQX1bWKs8D/Build-My-World---Projeto-Integrado?type=design&node-id=0-1&mode=design&t=xTPdyioAhmxzupVD-0) para visualizar o design do projeto.
 
 ## 🤝 Collaborators
 

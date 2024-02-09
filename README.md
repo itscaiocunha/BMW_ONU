@@ -48,90 +48,30 @@ Adicione comandos de execução e exemplos que você acha que os usuários achar
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/itscaiocunha" title="Caio Cunha">
-        <img src="assets/Caio.png" width="100px;" alt="Foto do Caio Cunha no GitHub"/><br>
+      <a href="#" title="Caio">
+        <img src="" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
         <sub>
-          <b>Caio Cunha</b>
+          <b>Iuri Silva</b>
         </sub>
       </a>
     </td>
-</table>
-<table>
-  <tr>
     <td align="center">
-      <a title="Daniel Vanzela">
-        <img src="assets/Daniel.png" width="100px;" alt="Foto do Daniel"/><br>
+      <a href="#" title="defina o titulo do link">
+        <img src="https://s2.glbimg.com/FUcw2usZfSTL6yCCGj3L3v3SpJ8=/smart/e.glbimg.com/og/ed/f/original/2019/04/25/zuckerberg_podcast.jpg" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
         <sub>
-          <b>Daniel Vanzela</b>
+          <b>Mark Zuckerberg</b>
         </sub>
       </a>
     </td>
-</table>
-<table>
-  <tr>
     <td align="center">
-      <a title="Eduardo Riquena">
-        <img src="assets/Edu.png" width="100px;" alt="Foto do Edu"/><br>
+      <a href="#" title="defina o titulo do link">
+        <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg" width="100px;" alt="Foto do Steve Jobs"/><br>
         <sub>
-          <b>Eduardo Riquena</b>
+          <b>Steve Jobs</b>
         </sub>
       </a>
     </td>
-</table>
-<table>
-  <tr>
-    <td align="center">
-      <a title="Gian Freitas">
-        <img src="assets/Gian.png" width="100px;" alt="Foto do Gian Freitas"/><br>
-        <sub>
-          <b>Gian Freitas</b>
-        </sub>
-      </a>
-    </td>
-</table>
-<table>
-  <tr>
-    <td align="center">
-      <a title="Giovana Chiodeto">
-        <img src="assets/Giovana.png" width="100px;" alt="Foto do Giovana Chiodeto"/><br>
-        <sub>
-          <b>Giovana Chiodeto</b>
-        </sub>
-      </a>
-    </td>
-</table>
-<table>
-  <tr>
-    <td align="center">
-      <a title="Haryel Caliari">
-        <img src="assets/haryel.png" width="100px;" alt="Foto do Haryel Caliari"/><br>
-        <sub>
-          <b>Haryel Caliari</b>
-        </sub>
-      </a>
-    </td>
-</table>
-<table>
-  <tr>
-    <td align="center">
-      <a title="Jackeline Ayumi">
-        <img src="assets/Ayumi.png" width="100px;" alt="Foto do Jackeline Ayumi"/><br>
-        <sub>
-          <b>Jackeline Ayumi</b>
-        </sub>
-      </a>
-    </td>
-</table>
-<table>
-  <tr>
-    <td align="center">
-      <a title="Vinycius Oblonczyk">
-        <img src="assets/Viny.png" width="100px;" alt="Foto do Vinycius Oblonczyk"/><br>
-        <sub>
-          <b>Vinycius Oblonczyk</b>
-        </sub>
-      </a>
-    </td>
+  </tr>
 </table>
 
 ## 📝 License

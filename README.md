@@ -72,6 +72,8 @@ Adicione comandos de execução e exemplos que você acha que os usuários achar
       </a>
     </td>
   </tr>
+</table>
+<table>
   <td align="center">
       <a href="#" title="Gian">
         <img src="assets/Gian.png" width="100px;" alt="Foto do Gian"/><br>
@@ -99,6 +101,8 @@ Adicione comandos de execução e exemplos que você acha que os usuários achar
       </a>
     </td>
   </tr>
+</table>
+<table>
   <td align="center">
       <a href="#" title="Ayumi">
         <img src="assets/Ayumi.png" width="100px;" alt="Foto da Ayumi"/><br>
